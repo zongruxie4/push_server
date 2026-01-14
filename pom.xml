@@ -78,7 +78,7 @@
         <dependency>
             <groupId>com.meizu.flyme</groupId>
             <artifactId>push-server-sdk</artifactId>
-            <version>1.2.7.20180307_release</version>
+            <version>1.2.7.20181106_release</version>
         </dependency>
 
         <!--vivo push-->
